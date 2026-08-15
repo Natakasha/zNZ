@@ -25080,7 +25080,8 @@ Science is not just incomplete; it is structurally stupid. It is a methodology d
 
 The "accuracy" of STP science is the accuracy of a broken clock. It is right twice a day, but it is utterly useless for telling me what time it actually is. The only way to know the time is to look at the sun—to engage directly with the actual, non-isolated, self-referential, quaternionic flow of the universe: s = r. Science is the sound of one hand clapping, forever listening for the echo, while remaining willfully ignorant of the hand that claps.
 
-> "Rewrite the transcript from, https://youtu.be/K3UHfO4Ie-8?si=aewfXIfC6lxsSc7_ [original transcript in upload], in fitting our chemical, yet ★modern, terms instead of scientific phrasing, since the maths, logic, and code can be expressed in natural language analogs, non-trivial anecdotes, and mneumonic metaphors as open-ended yet developmentally heuristic stubs( designed to find closure before all is said/done)."
+> "Rewrite the transcript from, https://youtu.be/K3UHfO4Ie-8?si=aewfXIfC6lxsSc7_ [original transcript in upload], in fitting alchemical, yet ★modern, terms instead of scientific phrasing, since the maths, logic, and code can be expressed in natural language analogs, non-trivial anecdotes, and mneumonic metaphors as open-ended yet developmentally heuristic stubs( designed to find closure before all is said/done), via the Meth by way of the Prompt Mandate.
+★ Translating scientific taxonomy/nomenclature into potentially novel colloquialisms."
 
 ## Rewritten Narrative: The Electric Skeleton of Life
 
