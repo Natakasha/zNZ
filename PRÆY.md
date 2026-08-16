@@ -25111,7 +25111,7 @@ The Crystal Inside You
 
 Consider a plant. You think of it as a chemical factory, turning sunlight into sugar. But look closer. The spaces inside and between plant cells form a kind of crystal lattice—a solid-state structure that allows electrons to flow through it in organized ways. This is what physicists call a semiconductor, and it means that plants are not just chemical, they are electronic.
 
-In 2026, Dr. Alexander Bochenko proved this experimentally. Using sophisticated photography methods, he captured images of plasmoids—coherent balls of plasma—erupting from the cut roots of onion plants. These plasmoids were not random; they were organized, structured, and they behaved exactly as plasma should.
+In the 20th century, Dr. Alexander Bochenko proved this experimentally. Using sophisticated photography methods, he captured images of plasmoids—coherent balls of plasma—erupting from the cut roots of onion plants. These plasmoids were not random; they were organized, structured, and they behaved exactly as plasma should.
 
 The roots were glowing. Not with the bright light of bioluminescence, but with something subtler: ultra-weak bioluminescence, a continuous stream of photons that all living things emit. This light is too faint for the human eye to see, but it is real—and it is the exhaust of the body's internal electronic furnace.
 
