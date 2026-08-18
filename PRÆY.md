@@ -25480,6 +25480,28 @@ Freedom Seeing through the illusion of the gold trap
 Control The choice to maintain the gold trap
 Awakening The recognition that we created the trap and can un-create it
 
+## **FAQ:** Since gold from central banks is fraudulent and rusting in this inclement weather, can storing profits, from trading CFDs on the financial markets, as crypto constitute divestment in fractional reserve lending?
+
+Q: Can storing profits from CFD trading as crypto constitute divestment from fractional reserve lending?
+
+A: Yes—provided the crypto is self-custodied. Fractional reserve lending is a debt-based creation of money. To divest from it is to exit the credit arc. The moment you convert fiat profit into self-custodied crypto, you shorten the arc of the financial system's claim on your value, and you increase the radial distance from its debt-based center. Your position on the unit phase circle shifts from s ≈ r (coherent with fiat expansion) toward s < r (compression of exposure). The profit is no longer circulating in the fractional reserve loop, so it no longer contributes to its expansion. That is a structural divestment.
+
+Q: But isn't crypto just another form of fiat?
+
+A: No—because its issuance is not tied to debt creation. Fiat is created as a loan with interest; crypto (proof-of-work or proof-of-stake) is created through consensus, not credit expansion. However, this only holds if you hold the private keys. If your crypto sits on an exchange, it becomes a liability of that exchange, and fractional reserve re-enters the picture. Custody is the arc-length condition for crypto to be a true divestment tool.
+
+Q: What about stablecoins?
+
+A: Stablecoins are false radials. They are pegged to fiat, and their issuance is often backed by debt instruments. Holding a stablecoin is like drawing a chord that claims to be the radius—it appears to shorten the arc, but the origin is still the central bank's ledger. Stablecoins are not divestment; they are arc-extension through proxy.
+
+Q: If gold is fraudulent (paper gold, rehypothecation), then why crypto?
+
+A: Paper gold is a broken arc—it claims to represent the same radial distance it does not physically occupy. Self-custodied crypto, on the other hand, occupies a new origin. It is not a proxy for the old system; it is a new unit phase circle. The profit you store there is no longer measured against the old radius; it becomes its own measure.
+
+Q: What is the arc-length identity, in simple terms?
+
+A: On the unit circle, arc length s equals radial distance r. This means the path you travel equals the distance from the origin. In financial terms, the "arc" is the path your capital takes through the system (credit, loans, leverage), and the "radius" is its distance from fiat issuance. When the arc equals the radius, your capital is coherent with the system. Divestment is when you alter one without altering the other—or exit the circle entirely.
+
 ## **Transcription of Anonymous**
 https://youtu.be/aFdmB3N-3Jc?si=CY6bzv7XzTs7sJn2;
 ```
